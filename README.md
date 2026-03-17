@@ -73,11 +73,7 @@ In this repository:
 
 ## ⚙️ Installation
 
-1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/random-forest-projects.git
-```
 
 2. Navigate to the project folder:
 
