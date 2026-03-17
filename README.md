@@ -83,7 +83,6 @@ cd random-forest-projects
 ```bash
 pip install -r requirements.txt
 ```
-
 ---
 
 ## ▶️ Usage
