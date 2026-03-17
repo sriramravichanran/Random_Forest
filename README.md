@@ -72,9 +72,6 @@ In this repository:
 ---
 
 ## ⚙️ Installation
-
-
-
 2. Navigate to the project folder:
 
 ```bash
