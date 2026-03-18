@@ -81,7 +81,7 @@ cd random
 3. Install dependencies:
 
 ```bash
-pip install -r
+pip i
 ---
 
 ## ▶️ Usage
