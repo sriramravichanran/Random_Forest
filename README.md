@@ -75,7 +75,7 @@ In this repository:
 2. Navigate to the project folder:
 
 ```bash
-cd random-forest-p
+cd random
 ```
 
 3. Install dependencies:
