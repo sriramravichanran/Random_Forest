@@ -21,7 +21,7 @@ These projects demonstrate how ensemble learning techniques can be applied to so
 * [Future Improvements](#future-improvements)
 * [Author](#author)
 
----
+--- 
 
 ## 📖 Overview
 
