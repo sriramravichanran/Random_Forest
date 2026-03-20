@@ -74,7 +74,7 @@ In this repository:
 ## ⚙️ Installation
 2. Navigate to the project folder:
 
-```bash
+```bash 
 
 
 3. Install dependencies:
