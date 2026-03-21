@@ -69,7 +69,7 @@ In this repository:
 * Matplotlib / Seaborn
 * Scikit-learn
 
----
+--- 
 
 ## ⚙️ Installation
 
