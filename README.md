@@ -77,10 +77,6 @@ In this repository:
 
 3. Install dependencies:
 
-```bash
-pip i
----
-
 ## ▶️ Usage
 
 Run the Jupyter Notebook:
