@@ -24,7 +24,7 @@ These projects demonstrate how ensemble learning techniques can be applied to so
 --- 
 
 ## 📖 Overview
-
+ 
 Random Forest is an ensemble learning method that builds multiple decision trees and merges them together to get more accurate and stable predictions.
 
 In this repository:
