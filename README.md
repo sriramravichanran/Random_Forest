@@ -123,7 +123,7 @@ Open:
 
 ## 👤 Author
 
-**Shri Ram**
+**Sri Ram**
 Aspiring Data Scientist
 
 --- 
