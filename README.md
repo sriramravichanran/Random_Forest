@@ -12,7 +12,7 @@ These projects demonstrate how ensemble learning techniques can be applied to so
 ## 📌 Table of Contents
 
 * [Overview](#overview) 
-* [Projects Included](#projects-included)
+* [Projects Included](#projects-included) 
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
