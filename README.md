@@ -14,7 +14,7 @@ These projects demonstrate how ensemble learning techniques can be applied to so
 * [Overview](#overview) 
 * [Projects Included](#projects-included) 
 * [Technologies Used](#technologies-used)
-* [Installation](#installation)
+* [Installation](#installation) 
 * [Usage](#usage)
 * [Project Workflow](#project-workflow)
 * [Results](#results)
